@@ -1,0 +1,21 @@
+div#groups div{
+    background-color: #82b4d6;
+    width: 200px;
+    height: 40vh;
+
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px  #85848470;
+}
+div#groups div ul li{
+    list-style: none;
+    padding: 20px;
+}
+
+div#groups div ul:nth-child(1){
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+div#one{
+    display: flex;
+}
